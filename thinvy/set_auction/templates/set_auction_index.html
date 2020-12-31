@@ -1,0 +1,23 @@
+<!-- This page will eventually be the base view for the set auction -- allow bidding on current set, show countdown to ending, bid options, maybe admin options -->
+
+{% extends "base.html" %}
+{% load static %}
+{% block page_content %}
+<h1>Set Auction Index</h1>
+<div class="row">
+{% for single_set in set_auction %}
+    <div class="col-md-4">
+        <div class="card mb-2">
+            <div class="card-body">
+                <h5 class="card-title">{{ single_set.set_name }}</h5>
+                <p class="card-text">{{ single_set.end_time }}</p>
+                <a href="{% url 'set_auction_detail' single_set.pk %}"
+                   class="btn btn-primary">
+                    Read More
+                </a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}

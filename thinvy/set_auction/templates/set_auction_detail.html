@@ -1,0 +1,17 @@
+<!-- This page will eventually contain a list of all of the (final) bids on a given set, who won the set, perhaps links to next/prev? -->
+
+{% extends "base.html" %}
+{% load static %}
+
+{% block page_content %}
+<h1>{{ set_auction.set_name }}</h1>
+<div class="row">
+    <div class="col-md-4">
+        <h5>About the set:</h5>
+        <p>{{ set_auction.set_name }}</p>
+        <br>
+        <h5>Bidding ending:</h5>
+        <p>{{ set_auction.end_time }}</p>
+    </div>
+</div>
+{% endblock %}
