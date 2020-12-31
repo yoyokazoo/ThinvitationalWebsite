@@ -55,7 +55,7 @@ ROOT_URLCONF = 'thinvitational_website.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        "DIRS": ["thinvitational_website/templates/"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
