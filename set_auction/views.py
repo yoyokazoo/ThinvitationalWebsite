@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from set_auction.models import SetDraftingSchedule, AuctionableSets
+from set_auction.auction_management import AuctionManagement
 
 def set_auction_index(request):
 	set_auction = SetDraftingSchedule.objects.all()
@@ -18,6 +19,7 @@ def set_auction_detail(request, pk):
 def set_auction_admin(request):
 	if(request.method == 'POST'):
 		print('asdfasdfasdf')
+		AuctionManagement.start_auction()
 		#mypythoncode.mypythonfunction( int(request.GET.get('mytextbox')) )
 	print('ffffffff')
 
