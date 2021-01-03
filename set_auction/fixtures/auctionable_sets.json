@@ -1,0 +1,744 @@
+[
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "LEA",
+      "set_name": "Alpha"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "LEB",
+      "set_name": "Beta"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "2ED",
+      "set_name": "Unlimited Edition"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "3ED",
+      "set_name": "Revised Edition"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "4ED",
+      "set_name": "Fourth Edition"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "5ED",
+      "set_name": "Fifth Edition"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "6ED",
+      "set_name": "Classic Sixth Edition"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "7ED",
+      "set_name": "Seventh Edition"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "8ED",
+      "set_name": "Eighth Edition"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "9ED",
+      "set_name": "Ninth Edition"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "10E",
+      "set_name": "Tenth Edition"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "M10",
+      "set_name": "Magic 2010"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "M11",
+      "set_name": "Magic 2011"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "M12",
+      "set_name": "Magic 2012"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "M13",
+      "set_name": "Magic 2013"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "M14",
+      "set_name": "Magic 2014"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "M15",
+      "set_name": "Magic 2015"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ORI",
+      "set_name": "Magic Origins"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "M19",
+      "set_name": "Core Set 2019"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "M20",
+      "set_name": "Core Set 2020"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "M21",
+      "set_name": "Core Set 2021"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ARN",
+      "set_name": "Arabian Nights"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ATQ",
+      "set_name": "Antiquities"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "LEG",
+      "set_name": "Legends"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "DRK",
+      "set_name": "The Dark"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "FEM",
+      "set_name": "Fallen Empires"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ICE",
+      "set_name": "Ice Age"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "HML",
+      "set_name": "Homelands"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ALL",
+      "set_name": "Alliances"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "MIR",
+      "set_name": "Mirage"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "VIS",
+      "set_name": "Visions"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "WTH",
+      "set_name": "Weatherlight"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "TMP",
+      "set_name": "Tempest"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "STH",
+      "set_name": "Stronghold"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "EXO",
+      "set_name": "Exodus"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "USG",
+      "set_name": "Urza's Saga"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ULG",
+      "set_name": "Urza's Legacy"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "UDS",
+      "set_name": "Urza's Destiny"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "MMQ",
+      "set_name": "Mercadian Masques"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "NEM",
+      "set_name": "Nemesis"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "PCY",
+      "set_name": "Prophecy"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "INV",
+      "set_name": "Invasion"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "PLS",
+      "set_name": "Planeshift"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "APC",
+      "set_name": "Apocalypse"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ODY",
+      "set_name": "Odyssey"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "TOR",
+      "set_name": "Torment"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "JUD",
+      "set_name": "Judgment"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ONS",
+      "set_name": "Onslaught"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "LGN",
+      "set_name": "Legions"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "SCG",
+      "set_name": "Scourge"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "MRD",
+      "set_name": "Mirrodin"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "DST",
+      "set_name": "Darksteel"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "5DN",
+      "set_name": "Fifth Dawn"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "CHK",
+      "set_name": "Champions of Kamigawa"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "BOK",
+      "set_name": "Betrayers of Kamigawa"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "SOK",
+      "set_name": "Saviors of Kamigawa"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "RAV",
+      "set_name": "Ravnica: City of Guilds"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "GPT",
+      "set_name": "Guildpact"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "DIS",
+      "set_name": "Dissension"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "CSP",
+      "set_name": "Coldsnap"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "TSP",
+      "set_name": "Time Spiral"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "PLC",
+      "set_name": "Planar Chaos"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "FUT",
+      "set_name": "Future Sight"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "LRW",
+      "set_name": "Lorwyn"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "MOR",
+      "set_name": "Morningtide"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "SHM",
+      "set_name": "Shadowmoor"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "EVE",
+      "set_name": "Eventide"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ALA",
+      "set_name": "Shards of Alara"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "CON",
+      "set_name": "Conflux"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ARB",
+      "set_name": "Alara Reborn"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ZEN",
+      "set_name": "Zendikar"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "WWK",
+      "set_name": "Worldwake"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ROE",
+      "set_name": "Rise of the Eldrazi"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "SOM",
+      "set_name": "Scars of Mirrodin"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "MBS",
+      "set_name": "Mirrodin Besieged"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "NPH",
+      "set_name": "New Phyrexia"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ISD",
+      "set_name": "Innistrad"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "DKA",
+      "set_name": "Dark Ascension"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "AVR",
+      "set_name": "Avacyn Restored"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "RTR",
+      "set_name": "Return to Ravnica"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "GTC",
+      "set_name": "Gatecrash"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "DGM",
+      "set_name": "Dragon's Maze"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "THS",
+      "set_name": "Theros"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "BNG",
+      "set_name": "Born of the Gods"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "JOU",
+      "set_name": "Journey into Nyx"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "KTK",
+      "set_name": "Khans of Tarkir"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "FRF",
+      "set_name": "Fate Reforged"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "DTK",
+      "set_name": "Dragons of Tarkir"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "BFZ",
+      "set_name": "Battle for Zendikar"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "OGW",
+      "set_name": "Oath of the Gatewatch"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "SOI",
+      "set_name": "Shadows over Innistrad"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "EMN",
+      "set_name": "Eldritch Moon"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "KLD",
+      "set_name": "Kaladesh"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "AER",
+      "set_name": "Aether Revolt"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "AKH",
+      "set_name": "Amonkhet"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "HOU",
+      "set_name": "Hour of Devastation"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "XLN",
+      "set_name": "Ixalan"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "RIX",
+      "set_name": "Rivals of Ixalan"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "DOM",
+      "set_name": "Dominaria"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "GRN",
+      "set_name": "Guilds of Ravnica"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "RNA",
+      "set_name": "Ravnica Allegiance"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "WAR",
+      "set_name": "War of the Spark"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ELD",
+      "set_name": "Throne of Eldraine"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "THB",
+      "set_name": "Theros Beyond Death"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "IKO",
+      "set_name": "Ikoria: Lair of Behemoths"
+    }
+  },
+  {
+    "model": "set_auction.AuctionableSets",
+    "fields": {
+      "set_code": "ZNR",
+      "set_name": "Zendikar Rising"
+    }
+  }
+]
