@@ -7,7 +7,7 @@ class AuctionManagement():
 		set_auction_schedule = SetDraftingSchedule.objects.all()
 		set_auction_existing_sets = [set_drafting_schedule.set_code for set_drafting_schedule in set_auction_schedule]
 		print(set_auction_existing_sets)
-		set_auction_sets = AuctionableSets.objects.all()
+		set_auction_sets = AuctionableSets.objects.exclude(set_code__in=set_auction_existing_sets)
 
 		# for debug
 		undrafted_sets = [auctionable_sets.set_code for auctionable_sets in set_auction_sets]
