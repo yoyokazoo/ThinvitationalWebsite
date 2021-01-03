@@ -1,0 +1,17 @@
+[
+  {
+    "model": "set_auction.SetDraftingSchedule",
+    "pk": 1,
+    "fields": {
+      "set_name": "Rivals of Ixalan",
+      "end_time": "1609818133"
+    }
+  },
+  {
+    "model": "set_auction.SetDraftingSchedule",
+    "pk": 2,
+    "fields": {
+      "set_name": "Theros"
+    }
+  }
+]
