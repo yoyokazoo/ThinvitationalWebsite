@@ -60,7 +60,7 @@ ROOT_URLCONF = 'thinvitational_website.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        "DIRS": ["thinvitational_website/templates/"],
+        "DIRS": [os.path.join(BASE_DIR, 'thinvitational_website', 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -132,3 +132,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
+
+LOGIN_REDIRECT_URL = '/set_auction/admin'
+
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'

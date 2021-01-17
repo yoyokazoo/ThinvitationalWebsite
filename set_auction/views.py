@@ -2,6 +2,7 @@ from django.shortcuts import render
 from set_auction.models import SetDraftingSchedule, AuctionableSets
 from set_auction.auction_management import AuctionManagement
 from django.http import HttpResponseNotFound
+from django.contrib.auth.decorators import login_required
 
 
 def set_auction_index(request):
@@ -18,6 +19,7 @@ def set_auction_detail(request, pk):
 	}
 	return render(request, 'set_auction_detail.html', context)
 
+@login_required
 def set_auction_admin(request):
 	if(request.method == 'POST'):
 		if 'start_draft' in request.POST:
