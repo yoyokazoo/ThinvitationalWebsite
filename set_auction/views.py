@@ -23,7 +23,7 @@ def set_auction_admin(request):
 		if 'start_draft' in request.POST:
 			AuctionManagement.start_auction()
 		elif 'end_set' in request.POST:
-			AuctionManagement.start_auction()
+			AuctionManagement.end_set()
 		else:
 			return HttpResponseNotFound('<h1>Invalid or unknown admin action</h1>')
 
