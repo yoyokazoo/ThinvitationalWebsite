@@ -8,7 +8,12 @@
 <form action="#" method="POST">
     {% csrf_token %}
     <h5 class="card-title">Start Draft</h5>
-    <input id="submit" type="submit" value="Click" />
+    <input id="start_draft" name="start_draft" type="submit" value="Click" />
+</form>
+<form action="#" method="POST" >
+    {% csrf_token %}
+    <h5 class="card-title">End Current Set</h5>
+    <input id="end_set" name="end_set" type="submit" value="Click" />
 </form>
 {% for single_set in set_auction_schedule %}
     <div class="col-md-4">
